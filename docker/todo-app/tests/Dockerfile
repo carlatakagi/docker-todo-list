@@ -4,10 +4,10 @@ WORKDIR /app
 
 ADD node_modules.tar.gz .
 
-COPY . .
+COPY package.json ./
 
 RUN npm install
 
 EXPOSE 3000
 
-CMD npm test
+CMD ["npm", "test"]
