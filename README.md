@@ -5,6 +5,20 @@
   🚀 Concluído 🚀
 </h2>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlatakagi/solar-system?color=%2304D361">
+  
+  <a href="https://github.com/carlatakagi/instagram-page/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlatakagi/solar-system">
+  </a>
+    
+  <a href="https://github.com/carlatakagi/instagram-page/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/carlatakagi/solar-system?style=social">
+
+  </a>
+ 
+</p>
+
 <br>
 
 Tabela de conteúdos
